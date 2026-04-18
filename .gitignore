@@ -13,3 +13,6 @@ terraform/.terraform.lock.hcl
 # IDE
 .idea/
 .vscode/
+
+# Private learning notes
+LEARNING_PLAN.md

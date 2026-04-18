@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: git@github-personal:kaspitay/k8s-gitops-platform.git
+    repoURL: https://github.com/kaspitay/k8s-gitops-platform.git
     targetRevision: main
     path: apps/sample-app/manifests
   destination:
